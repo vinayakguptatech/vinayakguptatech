@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on AI-powered assistive tech — vision-based navigation aids and NLP tools that simplify complex information for people who need it most
-👯 I'm looking to collaborate on SheShield, a social-welfare project focused on women's safety, and other AI/ML-for-good initiatives
-👀 I'm looking for help with scalable ML system design and production-grade Python/Java practices
-🌱 I'm currently learning cloud-native AI deployment (Azure, AWS) and advanced DSA
-💬 Ask me about computer vision, NLP, or assistive technology
-⚡ Fun fact: I've built a wearable device that helps visua
+🔭 I'm currently working on AI-powered assistive tech — vision-based navigation aids and NLP tools that simplify complex information for people who need it most.
+👯 I'm looking to collaborate on SheShield, a social-welfare project focused on women's safety, and other AI/ML-for-good initiatives.
+👀 I'm looking for help with scalable ML system design and production-grade Python/Java practices.
+🌱 I'm currently learning cloud-native AI deployment (Azure, AWS) and advanced DSA.
+💬 Ask me about computer vision, NLP, or assistive technology.
+⚡ Fun fact: I've built a wearable device with the my teammates that helps visually impaired users "see" using a Raspberry Pi and OpenCV
 
 
 ## 🌐 Socials:
