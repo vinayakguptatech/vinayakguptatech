@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on my 4th year project. I'm trying to contribute for social welfare. I'm trying to collaborate with the big tech companies like Amazon, Microsoft, etc. I'm currently learning AI, ML, Gen Al, Deep learning, DSA. I also have a 4-year experience in trading, I trade in stock market, forex and crypto market.
+🔭 I'm currently working on AI-powered assistive tech — vision-based navigation aids and NLP tools that simplify complex information for people who need it most
+👯 I'm looking to collaborate on SheShield, a social-welfare project focused on women's safety, and other AI/ML-for-good initiatives
+👀 I'm looking for help with scalable ML system design and production-grade Python/Java practices
+🌱 I'm currently learning cloud-native AI deployment (Azure, AWS) and advanced DSA
+💬 Ask me about computer vision, NLP, or assistive technology
+⚡ Fun fact: I've built a wearable device that helps visua
 
 
 ## 🌐 Socials:
